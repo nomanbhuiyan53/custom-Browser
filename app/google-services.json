@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28942384274",
+    "project_id": "ruperhat-2846c",
+    "storage_bucket": "ruperhat-2846c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28942384274:android:a3b26273792ca471d57a4b",
+        "android_client_info": {
+          "package_name": "com.ruperhat.web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28942384274-sm8g17nm93tffv0ljefn3mafr0853r21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRDntkpHv_XwNjPucJbgBaGhMW3JOC7i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28942384274-sm8g17nm93tffv0ljefn3mafr0853r21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
